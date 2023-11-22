@@ -1,0 +1,16 @@
+table {
+  border-spacing: 5px;
+  width: 50%;
+  height: 10%;
+  padding: 10px;
+}
+
+th {
+  background-color: greenyellow;
+  padding: 10px;
+}
+
+td {
+  background-color: springgreen;
+  padding: 10px;
+}
